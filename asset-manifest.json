@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Payment-Integration-React-Website/static/css/main.e9fc8e6a.css",
-    "main.js": "/Payment-Integration-React-Website/static/js/main.b8c00d74.js",
-    "static/media/3.jpg": "/Payment-Integration-React-Website/static/media/3.db30ef7364b556958212.jpg",
-    "static/media/education.jpg": "/Payment-Integration-React-Website/static/media/education.a941a040d5013591a0ac.jpg",
-    "static/media/distribution.jpg": "/Payment-Integration-React-Website/static/media/distribution.b154b909d1e518c5b67c.jpg",
-    "static/media/meals.jpg": "/Payment-Integration-React-Website/static/media/meals.969f12b117a6d0fbd38b.jpg",
-    "static/media/4.jpg": "/Payment-Integration-React-Website/static/media/4.e5f43a278854bc0eb869.jpg",
-    "static/media/5.jpg": "/Payment-Integration-React-Website/static/media/5.97183e6c49467b87e875.jpg",
-    "index.html": "/Payment-Integration-React-Website/index.html",
-    "main.e9fc8e6a.css.map": "/Payment-Integration-React-Website/static/css/main.e9fc8e6a.css.map",
-    "main.b8c00d74.js.map": "/Payment-Integration-React-Website/static/js/main.b8c00d74.js.map"
+    "main.css": "/ReactPaymentGateway/static/css/main.37004d8b.css",
+    "main.js": "/ReactPaymentGateway/static/js/main.3e81f22f.js",
+    "static/media/3.jpg": "/ReactPaymentGateway/static/media/3.db30ef7364b556958212.jpg",
+    "static/media/education.jpg": "/ReactPaymentGateway/static/media/education.a941a040d5013591a0ac.jpg",
+    "static/media/distribution.jpg": "/ReactPaymentGateway/static/media/distribution.b154b909d1e518c5b67c.jpg",
+    "static/media/meals.jpg": "/ReactPaymentGateway/static/media/meals.969f12b117a6d0fbd38b.jpg",
+    "static/media/4.jpg": "/ReactPaymentGateway/static/media/4.e5f43a278854bc0eb869.jpg",
+    "static/media/5.jpg": "/ReactPaymentGateway/static/media/5.97183e6c49467b87e875.jpg",
+    "index.html": "/ReactPaymentGateway/index.html",
+    "main.37004d8b.css.map": "/ReactPaymentGateway/static/css/main.37004d8b.css.map",
+    "main.3e81f22f.js.map": "/ReactPaymentGateway/static/js/main.3e81f22f.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9fc8e6a.css",
-    "static/js/main.b8c00d74.js"
+    "static/css/main.37004d8b.css",
+    "static/js/main.3e81f22f.js"
   ]
 }
